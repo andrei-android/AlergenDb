@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AllergenDatabase</string>
+    <string name="bgimg">bgimg</string>
+    <string name="food">Food</string>
+    <string name="allergens">Allergens</string>
+    <string name="allergen">Allergens</string>
+    <string name="cross_reactions">Cross-Reactions</string>
+    <string name="image">image</string>
+    <string name="occurrence">Occurrence</string>
+    <string name="details">Details</string>
+</resources>
